@@ -1,7 +1,6 @@
 //CIS278
-//Joe Tutone
 //Module 1 2.19
-//This program takes input of three integers from the user then finds the sum, average, product, smallest and largest
+//This program takes input of three integers from the user and then finds the sum, average, product, smallest, and largest
 
 #include <iostream> //preprocessor directive
 
